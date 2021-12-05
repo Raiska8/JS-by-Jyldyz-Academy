@@ -118,5 +118,12 @@ let myString = "Hello William";
 console.log(myString.slice(0, 4)); 
 
 
+//let userName = prompt ('Your Name?');
+//document.write(`"Hello, ${userName} !"`);
+
+let userCard = prompt ('last 4 numbers of your card?');
+let ccLength = userCard.length;
+document.write(`Last 4 numbers of your card are: ${userCard.slice(ccLength-4, ccLength)} `);
+
 
 
