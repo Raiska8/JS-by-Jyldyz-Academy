@@ -1,1 +1,1 @@
-# Tutorials by Jyldyz Academy
+# Tutorials by Jyldyz Academy and Mirlan agay
